@@ -10,4 +10,4 @@
 * ❤️ I love Greg Ramos
 * ⚡ Fun fact: Love ko si Greg Ramos
 
-<img src= https://tenor.com/en-GB/view/cat-cats-silly-cat-serious-cat-gif-13220117887119320906
+<img src=https://tenor.com/en-GB/view/cat-cats-silly-cat-serious-cat-gif-13220117887119320906
