@@ -11,7 +11,7 @@
 * ⚡ Fun fact: Love ko si Greg Ramos
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/t3dLLNaI50oAAAAC/cat-cats.gif"/>
+  <img src="https://media1.tenor.com/m/tvRRIlNEbAoAAAAd/gutfeld-vaughn.gif"/>
 </p>
 
 <p align="left">
