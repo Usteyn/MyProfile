@@ -14,6 +14,6 @@
   <img src="https://media1.tenor.com/m/t3dLLNaI50oAAAAC/cat-cats.gif"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://media1.tenor.com/m/1nIDXbABxgsAAAAC/gif-gifkk.gif"/>
 </p>
