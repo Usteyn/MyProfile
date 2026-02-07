@@ -11,5 +11,3 @@
 * ⚡ Fun fact: Love ko si Greg Ramos
 
 <ing src="https://www.pinterest.com/pin/cat-meme--785667097520499058/
-🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
