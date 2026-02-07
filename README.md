@@ -17,3 +17,4 @@
 <p align="left">
   <img src="https://media1.tenor.com/m/xN2aO-n8aV4AAAAd/greg-doucette-coach-greg.gif"/>
 </p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lyxf54ndmo3fqa7gpblhbubtzi&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
