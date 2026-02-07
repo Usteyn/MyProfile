@@ -12,6 +12,8 @@
 
 <p align="center">
   <img src="https://media1.tenor.com/m/tvRRIlNEbAoAAAAd/gutfeld-vaughn.gif"/>
+</p>
+
 <p align="left">
   <img src="https://media1.tenor.com/m/xN2aO-n8aV4AAAAd/greg-doucette-coach-greg.gif"/>
 </p>
